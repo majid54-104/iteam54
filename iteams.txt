@@ -2,3 +2,7 @@ mouse
 kyeboard
 cpu
 moniter
+Ram
+
+
+Thank 
